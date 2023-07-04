@@ -8,6 +8,11 @@ body {
 }
 
 .titleLink {
-    background-color: rgb(194, 227, 255);
+    background-color: rgb(115, 170, 218);
+    padding: 5;
+}
+
+article {
+    background-color: rgb(224, 240, 255);
     padding: 5;
 }
