@@ -1,7 +1,13 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: black
 }
 
 #page {
     background-color: antiquewhite;
+}
+
+.titleLink {
+    background-color: rgb(194, 227, 255);
+    padding: 5;
 }
